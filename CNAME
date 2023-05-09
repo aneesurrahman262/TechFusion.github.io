@@ -1,4 +1,1 @@
 techfusion.ai
-git add _config.yml
-git commit -m "Change website language to English"
-git push origin main
